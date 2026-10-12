@@ -1,16 +1,16 @@
-<h1 align="center">👋 Hey there!</h1>
+<h1>👋 Hey there!</h1>
 
-<h2 align="center">I'm Mayalarasu S</h2>
+<h2 >I'm Mayalarasu S</h2>
 
-<h3 align="center">
+<h3>
   🤖 B.Tech Artificial Intelligence and Machine Learning Student
 </h3>
 
-<p align="center">
+<p>
   📍 Tamil Nadu, India
 </p>
 
-<p align="center">
+<p>
   Passionate about AI/ML, software development, and building projects
   that solve real-world problems.
 </p>
