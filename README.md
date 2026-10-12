@@ -41,3 +41,11 @@ To keep learning, build meaningful projects, and grow into a skilled AI/ML engin
 ---
 
 ⭐ Always learning. Always building.
+
+<h1 align="center">Hey there 👋</h1>
+<h2 align="center">I'm Mayalarasu 🚀</h2>
+<h3 align="center">AI/ML Student | Developer | Tech Enthusiast</h3>
+
+<p align="center">
+  Building projects and turning ideas into reality.
+</p>
