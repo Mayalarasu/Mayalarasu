@@ -1,16 +1,43 @@
 ## Hi there 👋
 
-<!--
-**Mayalarasu/Mayalarasu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm Mayalarasu S, a B.Tech Artificial Intelligence and Machine Learning student from Tamil Nadu, India.
 
-Here are some ideas to get you started:
+I'm passionate about AI/ML, software development, and building projects that solve real-world problems.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 🚀 About Me
+
+- 🎓 B.Tech AI & ML Student
+- 🤖 Exploring Artificial Intelligence and Machine Learning
+- 💻 Interested in Python, C++, JavaScript, and web development
+- 🌱 Learning Data Structures and Algorithms
+- 🚀 Building projects and turning ideas into reality
+- 🎯 Aspiring AI/ML Engineer
+
+---
+
+## 🛠️ Tools & Technologies
+
+- **Languages:** Python, C, C++
+- **Web Development:** HTML, CSS, JavaScript, React
+- **AI/ML:** Machine Learning, Generative AI
+- **Tools:** Git, GitHub, VS Code
+- **Interests:** AI, software engineering, and problem-solving
+
+---
+
+## 📌 Featured Project
+
+### CareerLense AI
+An AI-powered application designed to help users explore career opportunities.
+
+---
+
+## 🎯 My Goal
+
+To keep learning, build meaningful projects, and grow into a skilled AI/ML engineer.
+
+---
+
+⭐ Always learning. Always building.
